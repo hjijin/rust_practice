@@ -1,0 +1,1 @@
+/Users/jim/Workspace/github/rust/rust_practice/lesson4/target/debug/lesson4: /Users/jim/Workspace/github/rust/rust_practice/lesson4/src/lib.rs /Users/jim/Workspace/github/rust/rust_practice/lesson4/src/main.rs
